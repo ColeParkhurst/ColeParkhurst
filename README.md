@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColeParkhurst
-- 👀 I’m interested in Back end software development.
+- 👀 I’m interested in back end software development.
 - 🌱 I’m currently learning Java, mySQL, and Spring Boot.
 
 <!---
